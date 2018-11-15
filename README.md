@@ -1,4 +1,4 @@
-一直想用Python来翻译东西，但是百度翻译得api不知道怎么操作，只好掉头看google的了
+被叫来更新一下，本脚本并无使用requests第三方库，而是用了python3自带的urllib模块，所以无需安装requests（虽然并没有什么用）。
 # 引用
-tk值算法：https://github.com/cocoa520/Google_TK
-代码：https://www.cnblogs.com/hanxiaobei/p/9652970.html
+tk值算法：https://www.jianshu.com/p/e42609d9a9e8
+
